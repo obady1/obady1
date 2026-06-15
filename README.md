@@ -1,19 +1,15 @@
-<h1 align="center">Hi 👋, I'm AbdulRahman Al-Awadi</h1>
+
+<h1 align="center">Hi , I'm AbdulRahman Al-Awadi</h1>
 <h3 align="center">AI Student | Frontend Developer</h3>
 <p align="center">
 - 🌱 I’m currently learning **FullStack FrontEnd ,Automation, ML**
 <p align="center">
 - 💬 Ask me about : FrontEnd ,Linux ,SEO ,ITsupport
 <p align="center">
-- 📫 How to reach me **eng.abdulrahman.a.a.a@gmail.com**
-  
-  ## 🌍 Languages
-| Language | Level |  
-|--------|----------|  
-| Arabic | Native Language |  
-| English | Professional Level |
+- 📫 Reach me on [Gmail](milto:eng.abdulrahman.a.a.a@gmail.com)  
 
-<h3 align="center">Connect with me:</h3>
+## Connect with me
+<h3 align="center"></h3>
 <p align="center">
 <a href="https://twitter.com/obady_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="obady_1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/obady1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="obady1" height="30" width="40" /></a>
@@ -39,7 +35,7 @@
 - 💻 Command Line Interface (CLI)
 - 🛠️ IT Support
 
----
 ## 📊 GitHub Stats
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=obady1&layout=compact&theme=github_dark" />
 </p>
+ 
