@@ -6,7 +6,7 @@
 <p align="center">
 - 💬 Ask me about : FrontEnd ,Linux ,SEO ,ITsupport
 <p align="center">
-- 📫 Reach me on [Gmail](milto:eng.abdulrahman.a.a.a@gmail.com)  
+- 📫 Reach me on : eng.abdulrahman.a.a.a@gmail.com
 
 ## Connect with me
 <h3 align="center"></h3>
