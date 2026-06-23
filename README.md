@@ -19,7 +19,7 @@
 <a href="https://www.leetcode.com/obady_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="obady_1" height="30" width="40" /></a>
 </p>
 
-## 🛠️ Technical Skills
+## Technical Skills
 <p align="center">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=python,html,css,javascript,git,github,linux,mint,vscode" />
