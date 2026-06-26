@@ -14,7 +14,7 @@
 <a href="https://twitter.com/obady_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="obady_1" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/obady1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="obady1" height="30" width="40" /></a>
 <a href="https://kaggle.com/obady1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="obady_1" height="30" width="40" /></a>
-<a href="https://fb.com/obady1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="obady1" height="30" width="40" /></a>
+<a href="https://fb.com/1obady" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="obady1" height="30" width="40" /></a>
 <a href="https://instagram.com/obady_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="obady_1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/obady_1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="obady_1" height="30" width="40" /></a>
 </p>
